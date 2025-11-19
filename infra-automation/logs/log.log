@@ -1,0 +1,71 @@
+2025-11-18 19:49:58,910 - INFO - root - infra_simulator started
+2025-11-18 19:50:11,145 - INFO - root - install nginx correctly
+2025-11-18 19:50:15,585 - INFO - root - install pydantic correctly
+2025-11-18 19:50:38,024 - INFO - root - machine info is vlaid
+2025-11-18 19:50:38,025 - INFO - root - server info has beed save at instances.json
+2025-11-18 19:50:38,025 - INFO - root - infra_simulator ended
+2025-11-18 21:02:23,100 - INFO - root - infra_simulator started
+2025-11-18 21:02:37,011 - INFO - root - install nginx correctly
+2025-11-18 21:02:41,819 - INFO - root - install pydantic correctly
+2025-11-18 21:02:55,012 - INFO - root - user stop the reading vm info
+2025-11-18 21:02:55,013 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:02:55,013 - INFO - root - infra_simulator ended
+2025-11-18 21:05:31,237 - INFO - root - infra_simulator started
+2025-11-18 21:05:33,787 - INFO - root - user stop the reading vm info
+2025-11-18 21:05:33,787 - INFO - root - vm info is null do to user stop
+2025-11-18 21:05:33,787 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:05:33,787 - INFO - root - infra_simulator ended
+2025-11-18 21:08:09,940 - INFO - root - infra_simulator started
+2025-11-18 21:08:13,578 - INFO - root - user stop the reading vm info
+2025-11-18 21:08:13,579 - INFO - root - vm info is null do to user stop
+2025-11-18 21:08:13,580 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:08:13,580 - INFO - root - infra_simulator ended
+2025-11-18 21:08:47,424 - INFO - root - infra_simulator started
+2025-11-18 21:08:53,400 - INFO - root - user stop the reading vm info
+2025-11-18 21:08:53,401 - INFO - root - vm info is null do to user stop
+2025-11-18 21:08:53,401 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:08:53,402 - INFO - root - infra_simulator ended
+2025-11-18 21:09:07,280 - INFO - root - infra_simulator started
+2025-11-18 21:09:09,718 - INFO - root - user stop the reading vm info
+2025-11-18 21:09:09,718 - INFO - root - vm info is null do to user stop
+2025-11-18 21:09:09,720 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:09:09,720 - INFO - root - infra_simulator ended
+2025-11-18 21:09:30,920 - INFO - root - infra_simulator started
+2025-11-18 21:09:35,692 - INFO - root - user stop the reading vm info
+2025-11-18 21:09:35,692 - INFO - root - vm info is null do to user stop
+2025-11-18 21:09:35,693 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:09:35,693 - INFO - root - infra_simulator ended
+2025-11-18 21:09:56,679 - INFO - root - infra_simulator started
+2025-11-18 21:09:58,846 - INFO - root - user stop the reading vm info
+2025-11-18 21:09:58,846 - INFO - root - vm info is null do to user stop
+2025-11-18 21:09:58,847 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:09:58,847 - INFO - root - infra_simulator ended
+2025-11-18 21:10:24,578 - INFO - root - infra_simulator started
+2025-11-18 21:10:27,873 - INFO - root - user stop the reading vm info
+2025-11-18 21:10:27,873 - INFO - root - vm info is null do to user stop
+2025-11-18 21:10:27,874 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:10:27,874 - INFO - root - infra_simulator ended
+2025-11-18 21:10:51,178 - INFO - root - infra_simulator started
+2025-11-18 21:10:54,469 - INFO - root - user stop the reading vm info
+2025-11-18 21:10:54,469 - INFO - root - vm info is null do to user stop
+2025-11-18 21:10:54,471 - INFO - root - machine info has beed save at instances.json
+2025-11-18 21:10:54,471 - INFO - root - infra_simulator ended
+2025-11-18 21:11:29,026 - INFO - root - infra_simulator started
+2025-11-18 21:11:32,058 - INFO - root - user stop the reading vm info
+2025-11-18 21:11:32,059 - INFO - root - vm info is null do to user stop
+2025-11-18 21:11:32,059 - ERROR - root - do to user stop the info in instances.json will not be saved
+2025-11-18 21:11:32,060 - INFO - root - infra_simulator ended
+2025-11-18 21:12:41,158 - INFO - root - infra_simulator started
+2025-11-18 21:12:44,311 - INFO - root - user stop the reading vm info
+2025-11-18 21:12:44,312 - INFO - root - vm info is null do to user stop
+2025-11-18 21:12:44,312 - ERROR - root - do to user stop the info in instances.json will not be saved
+2025-11-18 21:12:44,312 - INFO - root - infra_simulator ended
+2025-11-19 18:14:52,891 - INFO - root - infra_simulator started
+2025-11-19 18:15:01,350 - ERROR - root - user enter rowng os 
+2025-11-19 18:15:04,036 - INFO - root - user stop the reading vm info
+2025-11-19 18:15:04,037 - INFO - root - vm info is null do to user stop
+2025-11-19 18:15:04,037 - ERROR - root - do to user stop the info in instances.json will not be saved
+2025-11-19 18:15:04,037 - INFO - root - infra_simulator ended
+2025-11-19 18:15:15,334 - INFO - root - infra_simulator started
+2025-11-19 18:15:37,727 - INFO - root - install nginx correctly
+2025-11-19 18:15:43,503 - INFO - root - install pydantic correctly
